@@ -36,3 +36,8 @@ li:hover {
 h2 {
   margin-bottom: 10px;
 }
+img {
+  float: right;
+  margin: 10px;
+  width: 200px;
+}
