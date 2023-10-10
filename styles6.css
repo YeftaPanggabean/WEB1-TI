@@ -36,8 +36,17 @@ li:hover {
 h2 {
   margin-bottom: 10px;
 }
+h1 {
+  line-height: 100px;
+}
 img {
   float: right;
   margin: 10px;
   width: 200px;
+}
+#logo {
+  float: left;
+  margin-right: 20px;
+  max-width: 100px;
+  height: auto;
 }
