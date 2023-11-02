@@ -50,3 +50,10 @@ img {
   max-width: 100px;
   height: auto;
 }
+
+#navbar li {
+  display: inline;
+
+  background-color: black;
+  color: white;
+}
